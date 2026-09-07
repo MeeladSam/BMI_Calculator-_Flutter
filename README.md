@@ -104,12 +104,4 @@ This project helped me practice:
 * Implementing calculations
 * Organizing a Flutter project
 
-## Author
 
-**Meelad Sam**
-
-[GitHub](https://github.com/MeeladSam)
-
----
-
-⭐ If you like the project, consider giving it a star.
